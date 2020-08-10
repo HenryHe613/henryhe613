@@ -2,7 +2,7 @@
 
 欢迎关注我的博客：[www.yelow.ga](https://www.yelow.ga/)
 
-
+[![南岩 github stats](https://github-readme-stats.vercel.app/api?username=henryhe613)](//www.tianheyu.top)
 
 <!--
 **HenryHe613/henryhe613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 欢迎关注我的博客：[www.yelow.ga](https://www.yelow.ga/)
 
-![HenryHe613's github stats](https://github-readme-stats.vercel.app/api/?username=HenryHe613&show_icons=true&title_color=1F75C8&icon_color=79ff97&text_color=9f9f9f&bg_color=ffffff)
+![HenryHe613's github stats](https://github-readme-stats.vercel.app/api/?username=HenryHe613&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
 
 
 

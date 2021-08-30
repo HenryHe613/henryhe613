@@ -1,6 +1,6 @@
 ### Hi 👋  My name is 南岩.
 
-欢迎关注我的博客：[www.yelow.ga](https://www.yelow.ga/)
+欢迎关注我的博客：[nanyan666.com](https://nanyan666.com/)
 
 ![HenryHe613's github stats](https://github-readme-stats.vercel.app/api/?username=HenryHe613&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
 
